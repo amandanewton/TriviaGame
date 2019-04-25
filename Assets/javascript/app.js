@@ -1,13 +1,13 @@
 $(document).ready(function () {
     var options = [
         {
-            question: "Who has hosted “The Bachelor” since the franchise’s onset?", 
+            question: "Who has hosted every season of The Bachelor?", 
             choice: ["Harrison Ford", "Chris Harrison", "Nick Viall", "Chris Stapleton"],
             answer: 1,
             photo: "Assets/images/Harrison.gif"
          },
          {
-             question: "How many shows have been spun off from “The Bachelor”?", 
+             question: "How many shows have been spun off from The Bachelor?", 
             choice: ["Five", "Seven", "Eight", "Zero"],
             answer: 0,
             photo: "Assets/images/paradise.gif"
@@ -25,7 +25,7 @@ $(document).ready(function () {
             photo: "Assets/images/mansion.gif"
         }, 
         {
-            question: "How many times has Nial Viall met with Neil Lane?", 
+            question: "How many times has Nick Viall met with Neil Lane?", 
             choice: ["0", "2", "1", "3" ],
             answer: 3,
             photo: "Assets/images/NickViall.gif"
