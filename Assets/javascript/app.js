@@ -4,49 +4,49 @@ $(document).ready(function () {
             question: "Who has hosted “The Bachelor” since the franchise’s onset?", 
             choice: ["Harrison Ford", "Chris Harrison", "Nick Viall", "Chris Stapleton"],
             answer: 1,
-            photo: "assets/images/Harrison.gif"
+            photo: "Assets/images/Harrison.gif"
          },
          {
              question: "How many shows have been spun off from “The Bachelor”?", 
             choice: ["Five", "Seven", "Eight", "Zero"],
             answer: 0,
-            photo: "assets/images/paradise.gif"
+            photo: "Assets/images/paradise.gif"
          }, 
          {
              question: "Who has designed engagement rings for the bachelors?", 
             choice: ["Kyle Chan", "Tiffany's", "Neil Lane", "Cartier" ],
             answer: 2,
-            photo: "assets/images/NeilLane.gif"
+            photo: "Assets/images/NeilLane.gif"
         }, 
         {
             question: "Where is the Bachelor Mansion located in California?", 
             choice: ["Glendale", "Los Angeles", "Augora Hills", "Laguna Beach" ],
             answer: 2,
-            photo: "assets/images/mansion.gif"
+            photo: "Assets/images/mansion.gif"
         }, 
         {
             question: "How many times has Nial Viall met with Neil Lane?", 
             choice: ["0", "2", "1", "3" ],
             answer: 3,
-            photo: "assets/images/NickViall.gif"
+            photo: "Assets/images/NickViall.gif"
         }, 
         {
             question: "At the first cocktail party of the season, the bachelor presents what?", 
             choice: ["Cocktails", "The First Impression Rose", "An Engagement Ring", "His Parents" ],
             answer: 1,
-            photo: "assets/images/Rachel.gif"
+            photo: "Assets/images/Rachel.gif"
         }, 
         {
             question: "What does Chris Harrison promise to The Bachelor viewers every season?", 
             choice: ["Drama, Drama, Drama!", "The Most Romantic Season Yet!", "Cheesey Pasta", "The Most Dramatic Season Yet!" ],
             answer: 3,
-            photo: "assets/images/nap.gif"
+            photo: "Assets/images/nap.gif"
         }, 
         {
             question: "What does the bachelor/bachelorette ask when giving roses to the contestants?", 
             choice: ["Will you accept this rose?", "Want this rose?", "Can you take this rose?", "Do you like roses?" ],
             answer: 0,
-            photo: "assets/images/acceptrose.gif"
+            photo: "Assets/images/acceptrose.gif"
         }];
     
     var correctCount = 0;
